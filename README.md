@@ -23,7 +23,13 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Project: Real-time Order Processing System in NestJS
+
+Problem Statement
+An e-commerce client needed a real-time order processing system with high performance and scalability. The existing REST-based system had delays due to frequent polling. The challenge was to reduce latency and improve efficiency.
+
+Solution
+We designed and built a WebSocket-based real-time order processing system using NestJS, Redis, and PostgreSQL.
 
 ## Project setup
 
